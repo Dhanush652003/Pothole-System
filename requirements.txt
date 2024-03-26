@@ -1,0 +1,1 @@
+pip install opencv-python-headlesspip install numpypip install streamlit==1.26.0pip install ultralyticspip install Pillow
